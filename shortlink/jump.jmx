@@ -19,7 +19,7 @@
       </ThreadGroup>
       <hashTree>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="jump">
-          <stringProp name="HTTPSampler.domain">127.0.0.1</stringProp>
+          <stringProp name="HTTPSampler.domain">192.168.200.3</stringProp>
           <stringProp name="HTTPSampler.port">8003</stringProp>
           <stringProp name="HTTPSampler.protocol">HTTP</stringProp>
           <stringProp name="HTTPSampler.path">3WWpbG</stringProp>
